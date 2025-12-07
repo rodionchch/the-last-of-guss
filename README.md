@@ -41,7 +41,7 @@ npm run dev
 
 - **React**
 - **Redux**
-- **Axios**
 - **TypeScript**
+- **Axios**
 - **Material-UI**
 - **Vite**
